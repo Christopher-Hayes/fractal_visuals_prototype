@@ -5,6 +5,10 @@ This is a HTML/CSS + BabylonJS prototype for the 3d fractal visuals that are ren
 
 This page shows multiple runs of the fractal code with different k values. The k value represents the monomer overlap, 0.5 would be total overlap and 1.0 would be no overlap.
 
+![Screenshot of the 3D Fractal model showing overlap from the k variable](https://github.com/Christopher-Hayes/fractal_visuals_prototype/raw/master/screenshot_variable_k.png)
+
 ### variable_n.html
 
 This page shows multiple runs of the fractal code with different n values. The n value represents the total number of monomers generated.
+
+![Screenshot of the 3D Fractal model showing a certain number of monomers as influenced by the n variable](https://github.com/Christopher-Hayes/fractal_visuals_prototype/raw/master/screenshot_variable_n.png)
